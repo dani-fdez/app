@@ -1,7 +1,6 @@
 ## Daniel's Junior Software Developer Evaluation
-![image](https://github.com/dani-fdez/app/assets/37081319/4fbac56c-9f9f-4652-810d-41058f3b5db6)
 
-
+![image](https://github.com/dani-fdez/app/assets/37081319/1a7a36d6-3b41-4944-b852-4b73e62eccd3)
 
 Hello! In this project we will carry out 5 exercises proposed by Digiswit for the Junior Software Developer selection process to which I have applied.
 
